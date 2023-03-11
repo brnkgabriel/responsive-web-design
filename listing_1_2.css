@@ -1,0 +1,18 @@
+.rgba-container, .rgba {
+  width: 220px;
+  position: relative;
+}
+
+.rgba-container img {
+  width: 100%;
+}
+
+.rgba {
+  background: rgba(255,255,255,.5);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  line-height: 220px;
+  text-align: center;
+}

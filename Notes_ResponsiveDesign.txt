@@ -1,0 +1,22 @@
+- A breakpoint is the width in which the website changes layout based on the media query declaration
+The most commonly used breakpoints are:
+1. Extra small devices (xs): Phones (<768px)
+2. Small devices (sm): Tablets (>= 768px and < 992px)
+3. Medium devices (md): Desktop computers (>= 992px < 1200px)
+4. Large devices (lg): Desktop computers & TVs (>= 1200px)
+
+- A state is the version of the site in between each breakpoint. Mobile, tablet & desktop are our state
+
+Examples of responsive websites:
+- Nyetimber: http://nyetimber.com/our-story/ 
+
+- A polyfill is a bit of code that simply adds the missing functionality to the browser, which is normally achieved using JavaScript.
+Examples of Polyfills
+1. Respond.js: https://github.com/scottjehl/Respond
+2. HTML5 Shiv: https://github.com/aFarkas/html5shiv
+3. CupCake.js: http://www.rivindu.com/p/cupcakejs.html
+4. FlashCanvas: http://flashcanvas.net/ 
+
+- To validate your html page, use this link: https://validator.w3.org/  
+
+stopped at pg 43
